@@ -21,6 +21,7 @@ I am a CS student at **EPITA Toulouse**, passionate about systems programming, g
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Game Dev & Libraries:**  
 ![Pygame](https://img.shields.io/badge/Pygame--CE-FE0000?style=for-the-badge&logo=python&logoColor=white)
